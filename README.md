@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I think i am an idiot O><O**
 
 <h3 align="left">Connect with me:</h3>
-<p> Will update this Later </p>
+<p><b> Will update this Later </b></p>
 <p align="left">
 </p>
 
