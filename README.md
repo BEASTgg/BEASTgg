@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **beastforHELP@gmail.com**
 
-- 📫 You can also reach me for help via my email **beastforHELP@gmail.com**
-
 - 📄 Know about my experiences on ROM development like CORVUS , PE , PEX , CRDROID etc
 
 - ⚡ Fun fact **I think i am an idiot O><O**
