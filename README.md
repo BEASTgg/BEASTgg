@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **BTECH in Computer science and engineering**
 
-- 👨‍💻 All of my projects are available at [*will update*](www.github.com/BEASTgg)
+- 👨‍💻 All of my projects are available at [www.github.com/BEASTgg](www.github.com/BEASTgg)
 
-- 📝 I regularly write Assignments on [*will update*](www.github.com/BEASTgg)
+- 📝 I regularly write Assignments on [www.github.com/BEASTgg](www.github.com/BEASTgg)
 
 - 💬 Ask me about **Rom Developments**
 
