@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BEAST</h1>
-<h3 align="center">A passionate rom developer from India</h3>
+<h3 align="center">A passionate ROM Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif">
 
