@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastgg&label=Profile%20views&color=0e75b6&style=flat" alt="beastgg" /> </p>
 
-- 🌱 I’m currently learning **BTECH in Computer science and engineering**
+- 🌱 I’m currently learning **BTECH in Computer Science and Engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/BEASTgg](https://www.github.com/BEASTgg)
 
