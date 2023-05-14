@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif">
+<img align="center" alt="Coding" width="1600" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif">
 
 
 <h1 align="center">Hi 👋, I'm BEAST</h1>
