@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences on ROM development like CORVUS , PE , PEX , CRDROID etc
 
-- ⚡ Fun fact **I think i am an idiot O><O**
+- ⚡ Fun fact **Everything here is PERFECT**
 
 <h3 align="left">Connect with me:</h3>
 <p><b> Will update this Later </b></p>
