@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beastgg&show_icons=true&locale=en&layout=compact" alt="beastgg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastgg&" alt="beastgg" /></p>
+
+<img align="center" alt="Coding" width="1600" src="https://i.imgur.com/xdZzLIz.gif">
