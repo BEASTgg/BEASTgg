@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastgg&" alt="beastgg" /></p>
 
-<img align="center" alt="Coding" width="1400" src="https://i.imgur.com/xdZzLIz.gif">
+<img align="center" alt="Coding" width="1000" src="https://i.imgur.com/xdZzLIz.gif">
