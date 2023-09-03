@@ -1,5 +1,6 @@
-<img align="center" alt="Coding" width="1600" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif">
+<img align="left" alt="Coding" width="1600" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif">
 
+<img align="right" alt="Coding" width="1600" src="https://gifdb.com/images/high/hacker-anime-data-hacking-47a0o06a1lo2rqp8.gif">
 
 <h1 align="center">Hi 👋, I'm BEAST</h1>
 <h3 align="center">A passionate ROM Developer from India</h3>
