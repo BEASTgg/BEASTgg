@@ -33,6 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastgg&" alt="beastgg" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BEASTgg&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BEASTgg&show_icons=true&theme=dark" alt="BEASTgg" /> 
 </p>
