@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastgg&" alt="beastgg" /></p>
 
 <br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BEASTgg&show_icons=true&theme=dark&border_color=#000000" alt="BEASTgg" /> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BEASTgg&show_icons=true&theme=dark&hide_border=true" alt="BEASTgg" /> 
 </p>
 
 <img align="center" alt="Coding" width="1000" src="https://i.imgur.com/xdZzLIz.gif">
