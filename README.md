@@ -37,6 +37,6 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BEASTgg&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="BEASTgg" /> 
 </p>
 
-<p aligh="left"> <img src = "https://github-profile-trophy.vercel.app/?username=BEASTgg&theme=onedark"></p>
+<p aligh="left"> <img src = "https://github-profile-trophy.vercel.app/?username=BEASTgg&theme=matrix"></p>
 
 <img align="center" alt="Coding" width="1000" src="https://i.imgur.com/xdZzLIz.gif">
