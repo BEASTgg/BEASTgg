@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastgg&" alt="beastgg" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BEASTgg&theme=dark&hide_border=true)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=BEASTgg&theme=dark&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background
 
 <br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BEASTgg&show_icons=true&theme=dark" alt="BEASTgg" /> 
