@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beastgg&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&hide_border=true" alt="beastgg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastgg&theme=dark&hide_border=true&text_color=89f589&title_color=89f589&icon_color=89f589" alt="beastgg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastgg&theme=chartreuse-dark&hide_border=true" alt="beastgg" /></p> 
 
 <br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BEASTgg&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="BEASTgg" /> 
