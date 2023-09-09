@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BEASTgg&theme=merko&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BEASTgg&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=BEASTgg&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1&border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
