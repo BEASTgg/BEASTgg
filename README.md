@@ -11,9 +11,9 @@
 🌱 I’m currently learning BTECH in Computer Science and Engineering<br><br>👨‍💻 All of my projects are available at https://www.github.com/BEASTgg<br><br>📝 I regularly write Assignments on https://www.github.com/BEASTgg<br><br>💬 Ask me about Rom Developments<br><br>📫 How to reach me beastforHELP@gmail.com<br><br>📄 Know about my experiences on ROM development like CORVUS , PE , PEX , CRDROID etc<br><br>⚡ Fun fact Everything here is PERFECT
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTgg&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTgg&theme=merko&hide_border=False&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=BEASTgg&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BEASTgg&theme=merko&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BEASTgg&theme=merko&hide_border=False)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BEASTgg&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1)
