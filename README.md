@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTgg&theme=merko&hide_border=True&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=BEASTgg&theme=merko&hide_border=True&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BEASTgg&theme=merko&hide_border=True)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BEASTgg&theme=merko&hide_border=False)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BEASTgg&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1)
