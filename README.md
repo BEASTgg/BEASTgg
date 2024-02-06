@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="1600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-<h1 align="center">Hi 👋, I'm BEAST</h1>
+<h1 align="center">BEAST: "...BEEN DEAD FOR MONTHS"</h1>
 <h3 align="center">A passionate ROM Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastgg&label=Profile%20views&color=0e75b6&style=flat" alt="beastgg" /> </p>
