@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="1600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center">BEAST: "...IT SUCKS TO BE ME</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastgg&label=Profile%20views&color=0e75b6&style=flat" alt="beastgg" /> </p>
 
