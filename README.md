@@ -1,8 +1,4 @@
-<!-- <img align="left" alt="Anonymous" width="1600" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif"> -->
-
-<!-- <img align="right" alt="Coding" width="1600" src="https://gifdb.com/images/high/hacker-anime-data-hacking-47a0o06a1lo2rqp8.gif"> -->
-
-<img align="right" alt="Coding" width="1600" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Dead.png">
+<img align="right" alt="Coding" width="1600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 <h1 align="center">Hi 👋, I'm BEAST</h1>
