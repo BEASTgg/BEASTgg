@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastgg&label=Profile%20views&color=0e75b6&style=flat" alt="beastgg" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently pursuing BTECH in Computer Science and Engineering<br><br>👨‍💻 All of my projects are available at https://www.github.com/BEASTgg<br><br>📝 I regularly write Assignments on https://www.github.com/BEASTgg<br><br>💬 Ask me about Rom Developments<br><br>📫 How to reach me beastforHELP@gmail.com<br><br>📄 Know about my experiences on ROM development like CORVUS , PE , PEX , CRDROID etc<br><br>⚡ Fun fact Everything here is PERFECT
+🌱 I’m currently pursuing BTECH in Computer Science and Engineering<br><br>👨‍💻 All of my projects are available at https://www.github.com/BEASTgg<br><br>📝 I regularly write Assignments on https://www.github.com/BEASTgg<br><br>💬 Ask me about Rom Developments<br><br>📫 How to reach me madhusudanroy540@gmail.com<br><br>📄 Know about my experiences on ROM development like CORVUS , PE , PEX , CRDROID etc<br><br>⚡ Fun fact Everything here is PERFECT
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BEASTgg&theme=merko&hide_border=True&include_all_commits=true&count_private=true&layout=compact)<br/>
